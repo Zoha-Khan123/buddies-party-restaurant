@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="text-teaGreen">
+    <div className="bg-red">
       HELLO WORLD 
     </div>
   );
