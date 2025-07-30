@@ -22,7 +22,7 @@ const merriweather = Merriweather({
 // });
 
 export const metadata: Metadata = {
-  title: "Buddies_Party",
+  title: "Buddies Party Restaurant",
   description: "Zomari",
 };
 
