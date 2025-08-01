@@ -1,9 +1,12 @@
-import Image from "next/image";
+import React from 'react'
+import Cards from './components/cards/cards'
 
-export default function Home() {
+const page = () => {
   return (
-    <div className="bg-red">
-      HELLO WORLD 
+    <div>
+      <Cards/>
     </div>
-  );
+  )
 }
+
+export default page
